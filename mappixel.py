@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
-import pandas as pd
 
 # โหลดภาพ
 img = mpimg.imread('map.jpg')  # เปลี่ยนชื่อไฟล์ภาพตามของคุณ
